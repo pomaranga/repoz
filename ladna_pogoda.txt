@@ -1,3 +1,4 @@
 slonce
 tecza
 deszcz
+Grad
