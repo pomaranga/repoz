@@ -20,3 +20,4 @@ papito (zmiana Denys)
 papito (zmiana Denys)
 >>>>>>> 8705903bbf0839779ec1305a779e0b3e93cd640d
 <3
+good(zmiana Daria)
