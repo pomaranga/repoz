@@ -10,3 +10,8 @@ i nie ma jej
 zmiana DAVYD KHOMENKOO 
 kolejna linijka Karolina
 dwunasta linijka ginalska julia
+<<<<<<< HEAD
+trzynasta linijka Konrad miszczak
+=======
+papito (zmiana Denys)
+>>>>>>> 9bb740f3b0cf448b545c139eedce28462e22fc07
