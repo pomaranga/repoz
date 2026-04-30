@@ -2,3 +2,4 @@ slonce
 tecza
 deszcz
 Grad
+chmury
