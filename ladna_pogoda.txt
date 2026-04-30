@@ -7,3 +7,4 @@ burza
 zimno
 grad
 wiatr
+snieg
