@@ -6,4 +6,5 @@ chmury
 burza
 zimno
 grad
+wiatr
 snieg
