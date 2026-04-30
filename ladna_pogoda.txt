@@ -4,3 +4,6 @@ deszcz
 Grad
 chmury
 burza
+zimno
+grad
+snieg
