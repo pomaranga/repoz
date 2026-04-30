@@ -5,3 +5,4 @@ Grad
 chmury
 burza
 zimno
+grad
