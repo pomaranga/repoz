@@ -4,3 +4,4 @@ deszcz
 Grad
 chmury
 burza
+zimno
