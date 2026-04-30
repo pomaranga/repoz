@@ -3,3 +3,4 @@ tecza
 deszcz
 Grad
 chmury
+burza
